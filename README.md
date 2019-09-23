@@ -1,2 +1,1 @@
-# Noders-Logos
-Logos oficiales de Noders
+# Logos oficiales de Noders
